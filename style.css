@@ -78,7 +78,7 @@ p, p1 {
 }
 
 .navbar li a:hover {
-  background-color: #3B3B2E;
+  background-color: #3a3a3a;
   color: #FCFCFC;
 }
 
@@ -132,4 +132,8 @@ p, p1 {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.footer a {
+  color: #E5E5E5;
 }
